@@ -1,0 +1,57 @@
+body {
+    background-color: #3B4252;
+    text-align: center;
+    font-family: JetBrainsMono;
+  }
+  
+  h1 {
+    color: #EBCB8B;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #D08770;
+    text-align: center;
+  }
+  
+  h3 {
+    color: #D08770;
+    text-align: center;
+  }
+
+  p {
+    color: #B48EAD;
+    text-align:center;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+  
+  script {
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+      left: calc(50vw - ELEMENTWIDTH);
+  }
+  blockquote {
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+      left: calc(50vw - ELEMENTWIDTH);
+  }
+  a {
+    font-family: JetBrainsMono;
+    font-size: 20px;
+    text-align:center;
+    color: #81A1C1;
+  }
+
+  html {
+    background-color: #3B4252;
+  }
+  

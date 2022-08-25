@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Linux Gamer Posts</title>
+<link>https://linux-gamer.github.io/posts</link>
+<description>Blog about art, tech and gaming.</description>
+<lastBuildDate>Wed, June 22 2022</lastBuildDate>
+<item>
+<title>Welcome Post</title>
+<link>https://linux-gamer.github.io/content/posts/welcome-post.md</link>
+<guid>https://linux-gamer.github.io/</guid>
+<description>Welcome Post for my site.</description>
+<pubDate>Wed, June 22 2022</pubDate>
+</item>
+</channel>
+</rss>
+</xml>
