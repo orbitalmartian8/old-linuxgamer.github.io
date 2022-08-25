@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Posts</h1>
-<a href="index">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a>
+<a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a>
 <h2>Posts</h2>
 2022
 
