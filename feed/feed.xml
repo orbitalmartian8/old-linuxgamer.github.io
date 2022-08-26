@@ -31,7 +31,7 @@
 		The first issue I’m going to talk about today is system freezing and not doing anything, resulting in having to be forced off and turned back on again. This was caused by the package <code class="language-plaintext highlighter-rouge">brave-browser-nightly</code> which after uninstalling, the system didn’t crash anymore.</p>
 		<br>
 		<p>Next issue is Flatpak, Flatpaks are cool and good (when they work), I was trying to get them to show up in my app launcher (Rofi), but they wouldn’t I added the paths it said to $XDG_DATA_DIRS like the flatpak.run cli told me to do everytime I manually ran the apps. This then f*cked my whole system, Rofi only looked in that path, and so ONLY Flatpak apps were shown, no normal dnf installed ones.</p>
-		<br?
+		<br>
 		<p>Next was KDE Plasma not loading, cause by a segmentation fault for KSplashQML - which I believe was caused by the previous issue (Flatpak one ^). To fix this and the Flatpak issue, I reinstalled Fedora 36 KDE Spin onto my PC and it has worked like a charm since.</p>
 		<br>
 		<h2 id="conclusion">Conclusion</h2>
