@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Linux Gamer</title>
+	<subtitle>(Eh near enough) Daily Linux, Art, Gaming and Programming Content on YouTube and Odysee</subtitle>
+	
+	<link href="https://linuxgamer.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://linuxgamer.github.io/"/>
+	<updated>2022-08-01T00:00:00Z</updated>
+	<id>https://linuxgamer.github.io/</id>
+	<author>
+		<name>CJ (Linux Gamer)</name>
+		<email>charl.cj.monke@gmail.com</email>
+	</author>
+<entry>
+		<title>Lacking Ideas</title>
+		<link href="https://linuxgamer.github.io/content/posts/fedora-broken"/>
+		<updated>2022-08-01T00:00:00Z</updated>
+		<id>https://linuxgamer.github.io/content/posts/fedora-broken</id>
+		<content type="html">
+
+</entry>
