@@ -22,5 +22,11 @@
             <description><![CDATA[Visit this <a href="https://linuxgamer.github.io>link </a> to my website"]]></description>
             <author>charl.cj.monke@gmail.com</author>
         </item>
-
+        <item>
+            <title>Is Fedora Breaking TOO Much?</title>
+            <pubDate>Fri,26 Aug 2022, 13:10:00</pubDate>
+            <link>https://linuxgamer.github.io/content/posts/fedora-broken.md</link>
+            <description><![CDATA[Visit this <a href="https://linuxgamer.github.io>link </a> to my website"]]></description>
+            <author>charl.cj.monke@gmail.com</author>
+        </item>
 </rss>
