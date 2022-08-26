@@ -1,3 +1,4 @@
+<head><link rel="shortcut icon" href="assets/logo.ico"></head>
 # **{TITLE}**
 
 

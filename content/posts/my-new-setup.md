@@ -1,3 +1,4 @@
+<head><link rel="shortcut icon" href="assets/logo.ico"></head>
 # **My New Setup**
 ## Tuesday 5th June 2022 - 9:30AM
 ## Introduction

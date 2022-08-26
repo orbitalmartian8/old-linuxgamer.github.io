@@ -1,3 +1,4 @@
+<head><link rel="shortcut icon" href="assets/logo.ico"></head>
 # **Is Fedora Breaking TOO Much?**
 ## Introduction
 Hi all, welcome back to another post. In today's post I'm going to be discussing the different issues I've had whilst on Fedora, how I fixed or avoided them happening again. Sit tight, this is going to be a long one.

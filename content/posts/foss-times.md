@@ -1,3 +1,4 @@
+<head><link rel="shortcut icon" href="assets/logo.ico"></head>
 # **Launch of The FOSS Times**
 ## What?
 The FOSS Times is a brain child of mine and has been for a while, a newsletter/newspaper that focuses on a variety of topics from Tech to Gaming to Art, with a keen interest in FOSS projects.
