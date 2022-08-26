@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Linux-Gamer</title>
-<link rel="shortcut icon" href="assets/icon.ico">
+<link rel="shortcut icon" href="assets/logo.ico">
 <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
