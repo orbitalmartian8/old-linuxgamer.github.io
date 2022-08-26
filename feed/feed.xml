@@ -17,6 +17,8 @@
 		<updated>2022-08-01T00:00:00Z</updated>
 		<id>https://linuxgamer.github.io/content/posts/fedora-broken</id>
 		<content type="html">
+		<html>
+		<body>
 		<h1 id="is-fedora-breaking-too-much"><strong>Is Fedora Breaking TOO Much?</strong></h1>
 		<br>
 		<h2 id="introduction">Introduction</h2>
@@ -40,5 +42,7 @@
 		<p><a href="https://linuxgamer.github.io">Back to Home</a>
 		<br>
 		<a href="https://linuxgamer.github.io/posts">Back to Posts</a></p>
+		</body>
+		</html>
 		</content>
 </entry>
