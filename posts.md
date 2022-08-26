@@ -3,6 +3,7 @@
 <title>Linux-Gamer - Posts</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" href="assets/logo.ico">
+<link rel="alternate" type="application/rss+xml" title="Linux Gamer - Posts" href="https://linuxgamer.github.io/rss.xml" />
 </head>
 <body>
 <h1>Posts</h1>
