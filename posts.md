@@ -9,8 +9,10 @@
 <h1>Posts</h1>
 <a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a>
 <h2>Posts</h2>
+<a href="https://linuxgamer.github.io/feed/feed.xml"> RSS</a>
+<br?
 2022
-
+<br>
 <h3>2022</h3>
 <a href="/content/posts/welcome-post">Welcome Post</a>
 <br>
