@@ -15,5 +15,12 @@
 <a href="/content/posts/my-new-setup">My New Setup</a>
 <br>
 <a href="/content/posts/foss-times">The FOSS Times</a>
+<br>
+<a href="/content/posts/fedora-broken">NEW - Is Fedora Breaking Too Much?</a>
 </body>
+    <footer class="pt-4 my-md-5 pt-md-5 border-top">
+      <p class="text-center">This website is made and distributed under the 
+      <a href="https://github.com/linuxgamer/linuxgamer.github.io/LICENSE.txt">GNU General Public License Version 2 </a>
+      | WebSite Designed With ❤️ by Linux-Gamer</p>
+    </footer>
 </html>
