@@ -15,6 +15,6 @@ Next was KDE Plasma not loading, cause by a segmentation fault for KSplashQML - 
 Although most of these issues were caused by me, but the issue caused by Brave was not. Why am I still using Fedora, well, I love it, Fedora fits my workflow perfectly, and that's it. Arch could fit me better but I can't be asked to go through that install at the moment. So Fedora (in my opinion) is still THE BEST Linux distro out there and is well suited for beginners.
 
 
-<a href="https://linux-gamer.github.io">Back to Home</a>
+<a href="https://linuxgamer.github.io">Back to Home</a>
 <br>
-<a href="https://linux-gamer.github.io/posts">Back to Posts</a>
+<a href="https://linuxgamer.github.io/posts">Back to Posts</a>
