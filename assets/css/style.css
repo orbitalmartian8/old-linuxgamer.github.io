@@ -1,26 +1,26 @@
 body {
-    background-color: #3B4252;
+    background-color: #021347;
     text-align: center;
     font-family: JetBrainsMono;
   }
   
   h1 {
-    color: #EBCB8B;
+    color: #a5ddef;
     text-align: center;
   }
   
   h2 {
-    color: #D08770;
+    color: #dceaf2;
     text-align: center;
   }
   
   h3 {
-    color: #D08770;
+    color: #deceaf2;
     text-align: center;
   }
 
   p {
-    color: #B48EAD;
+    color: #97aabf;
     text-align:center;
     padding-left: 70px;
     padding-right: 70px;
