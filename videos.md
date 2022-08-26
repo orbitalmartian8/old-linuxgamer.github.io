@@ -1,5 +1,5 @@
-<head><title>Linux-Gamer - Videos</title></head>
-
+<head><title>Linux-Gamer - Videos</title>
+<link rel="shortcut icon" href="assets/logo.ico"></head>
 [Home](index.md) [Posts](posts.md) [Socials](socials.md)
 # Videos
 <br>

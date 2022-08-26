@@ -2,6 +2,7 @@
 <head>
 <title>Linux-Gamer - Socials</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="assets/logo.ico">
 </head>
 <body>
 <h1>Socials</h1>
