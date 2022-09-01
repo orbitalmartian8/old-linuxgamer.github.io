@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Home</h1>
-<a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
+<a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="gallery">Gallery</a> <a href="socials">Socials</a> 
 <h2><u> About </u></h2>
 <p>
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
@@ -34,7 +34,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 <a href="https://linuxgamer.github.io/posts">See All Posts</a> | <a href="https://linuxgamer.github.io/feed/feed.xml"> RSS</a>
 </p>
 
-<h2><u> Gallery </u></h2>
+<h2><u> <a href="gallery">Gallery</a> </u></h2>
 <p>
 
 </p>

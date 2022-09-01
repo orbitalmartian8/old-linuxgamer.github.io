@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Socials</h1>
-<a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
+<a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="gallery">Gallery</a> <a href="socials">Socials</a> 
 
 <h2>YouTube     <img src="/assets/resources/yt.png" alt="youtube=logo" width="50"/></h2>
 <br>

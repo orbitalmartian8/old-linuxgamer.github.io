@@ -1,6 +1,6 @@
 <head><title>Linux-Gamer - Videos</title>
 <link rel="shortcut icon" href="assets/logo.ico"></head>
-[Home](index.md) [Posts](posts.md) [Socials](socials.md)
+[Home](index.md) [Posts](posts.md) [Gallery](gallery.md) [Socials](socials.md)
 # Videos
 <br>
 This will be a local area for my videos to be hosted.
