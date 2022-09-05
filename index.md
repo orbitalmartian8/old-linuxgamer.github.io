@@ -24,11 +24,11 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 <h2><u> New Posts </u></h2>
 <p>
-<a href="/content/posts/fedora-broken">NEW - Is Fedora Breaking Too Much?</a>
+<a href="/content/posts/best-flightsim">NEW - Have I Found The Best Flight Simulator?</a>
+<br>
+<a href="/content/posts/fedora-broken">Is Fedora Breaking Too Much?</a>
 <br>
 <a href="/content/posts/foss-times">The FOSS Times</a>
-<br>
-<a href="/content/posts/my-new-setup">My New Setup</a>
 <br>
 <br>
 <a href="https://linuxgamer.github.io/posts">See All Posts</a> | <a href="https://linuxgamer.github.io/feed/feed.xml"> RSS</a>

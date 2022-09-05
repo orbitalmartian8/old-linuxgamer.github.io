@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Linux Gamer</title>
-	<subtitle>(Eh near enough) Daily Linux, Art, Gaming and Programming Content on YouTube and Odysee</subtitle>
+	<subtitle>(Eh near enough) Daily Linux, Art, Gaming and Programming Content on YouTube</subtitle>
 	
 	<link href="https://linuxgamer.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://linuxgamer.github.io/"/>
@@ -38,3 +38,44 @@
 		<br />
 		</content>
 </entry>
+
+<entry>
+		<title>Have I Found THE Best Flight Simulator Out There?</title>
+		<link href="https://linuxgamer.github.io/content/posts/best-flightsim"/>
+		<updated>2022-08-01T00:00:00Z</updated>
+		<id>https://linuxgamer.github.io/content/posts/best-flightsim</id>
+		<content type="html">
+<h1 id="have-i-found-the-best-flight-simulator-out-there"><strong>Have I Found THE Best Flight Simulator Out There</strong></h1>
+
+<h2 id="introduction">Introduction</h2>
+<p>Hi all and welcome back to another blog post, today I’m going to be talking about flight simulators, and whether I have found the best one available. This is, of course, my personal opinions and nothing here should be taken as fact.</p>
+
+<h2 id="flightgear-the-free-and-open-source-flight-simulator">Flightgear: The Free and Open Source Flight Simulator</h2>
+<p>Flightgear was first released in 1997 (although development began in 1996). It is available on most operating systems including, Windows, macOS, Linux, IRIX and Solaris. Flightgear is ofter used in aerospace research and industry.</p>
+
+<h2 id="comparison">Comparison</h2>
+<p>Compared to many other flight simulators, such as Microsoft Flight Simulator 2020 and X-Plane, this one is not the best in all fields.
+I am going to be reviewing FGFS against MSFS and X-Plane in multiple catagories.</p>
+
+<h3 id="graphics-quality">Graphics Quality</h3>
+<p>The default graphics settings leave something to be desired, but with newer updates adding photoscenery support, this could change (with a few little changes to some settings). But in this catagory, FGFS does not score very well, meaning that in this section the winner is MSFS and X-Plane (both with excellent graphics).</p>
+
+<h3 id="price">Price</h3>
+<p>FG is free (also open source), which makes it the winner compared to MSFS and X-Planes extortionate pricing.</p>
+
+<h3 id="flying">Flying</h3>
+<p>I have only ever tried FG (except from a couple of FSX sims in museums) and to be brutally honest, Flightgear has run better than anything else could ever run on the hardware that I have and use.</p>
+
+<h4 id="aircraft">Aircraft</h4>
+<p>Aircraft are community made in FG, which means if someone wants a plane (and it’s not already been made) they’ll make it themselves. This means that there is a few weird ones, but most of the ones that people want are in the game by default or easily downloadable.</p>
+
+<h3 id="overall">Overall</h3>
+<p>So overall, Flightgear wins because it’s free, has lots of aircraft and the best flying experience, and it has promising graphics coming in the future (in future updates).</p>
+
+<p>So back to the original question, Is It THE Best Flight Sim available?, no, but it sure gives a good go at it.</p>
+
+<p>Thanks for reading, have a wonderful morning, afternoon, evening, night, or day wherever you are! Bye for now!</p>
+		</content>
+</entry>
+
+</feed>
