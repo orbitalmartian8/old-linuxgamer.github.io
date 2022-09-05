@@ -20,7 +20,10 @@
 <br>
 <a href="/content/posts/foss-times">The FOSS Times</a>
 <br>
-<a href="/content/posts/fedora-broken">NEW - Is Fedora Breaking Too Much?</a>
+<a href="/content/posts/fedora-broken">Is Fedora Breaking Too Much?</a>
+<br>
+<a href="/content/posts/best-flightsim">NEW - Have I Found The Best Flight Simulator?</a>
+
 </body>
     <footer class="pt-4 my-md-5 pt-md-5 border-top">
       <p class="text-center">This website is made and distributed under the 
