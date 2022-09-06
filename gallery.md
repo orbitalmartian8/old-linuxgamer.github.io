@@ -13,7 +13,8 @@
 <img src="https://github.com/LinuxGamer/Art/blob/main/septembit-2.png?raw=truw">
 <img src="https://github.com/LinuxGamer/Art/blob/main/septembit-3.png?raw=true">
 <img src="https://github.com/LinuxGamer/Art/blob/main/septembit-4.png?raw=true">
-
+<br>
+More Information about there pieces can be found <a href="https://github.com/LinuxGamer/Art">HERE</a>
 
 </body>
     <footer class="pt-4 my-md-5 pt-md-5 border-top">
