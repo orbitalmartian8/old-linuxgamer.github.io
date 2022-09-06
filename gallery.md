@@ -9,10 +9,10 @@
 <a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="gallery">Gallery</a> <a href="socials">Socials</a> 
 <h2><u> 2022 Art </u></h2>
 <br>
-<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-1.png">
-<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-2.png">
-<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-3.png">
-<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-4.png">
+<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-1.png?raw=true">
+<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-2.png?raw=truw">
+<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-3.png?raw=true">
+<img src="https://github.com/LinuxGamer/Art/blob/main/septembit-4.png?raw=true">
 
 
 </body>
