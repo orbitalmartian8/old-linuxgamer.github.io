@@ -1,11 +1,12 @@
 <html>
 <head>
 <title>Linux-Gamer - Socials</title>
-<link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="assets/logo.ico">
 </head>
 <body>
 <h1>Socials</h1>
-<a href="index">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
+<a href="https://linuxgamer.github.io">Home</a> <a href="posts">Posts</a> <a href="gallery">Gallery</a> <a href="socials">Socials</a> 
 
 <h2>YouTube     <img src="/assets/resources/yt.png" alt="youtube=logo" width="50"/></h2>
 <br>
@@ -21,3 +22,10 @@
 
 <p>My Account - <a href="https://twitter.com/The_LinuxGamer">Linux Gamer</a></p>
 <br>
+</body>
+    <footer class="pt-4 my-md-5 pt-md-5 border-top">
+      <p class="text-center">This website is made and distributed under the 
+      <a href="https://github.com/linuxgamer/linuxgamer.github.io/LICENSE.txt">GNU General Public License Version 2 </a>
+      | WebSite Designed With ❤️ by Linux-Gamer</p>
+    </footer>
+</html>

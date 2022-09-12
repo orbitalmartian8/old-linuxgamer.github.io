@@ -10,8 +10,7 @@
 <h2><u> About </u></h2>
 <p>
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
-are run and how I work. The main few things to know is that I mainly use an
-Asus Vivobook X705 running Windows 11; however for doing certain things, I use an Asus X553MA running Manjaro KDE. The computer that I originally started the channels on was a Lenovo Ideapad 110 running Windows 10. Other things to note are that I am a “talented” artist and am quite knowledgeable with technology. </p>
+are run and how I work. The main few things to know is that I use an Asus X553MA running Fedora 36 KDE Spin. The computer that I originally started the channels on was a Lenovo Ideapad 110 running Windows 10. Other things to note are that I am a “talented” artist and am quite knowledgeable with technology. </p>
 
 
 <h2><u> Behind The Name </u></h2>
@@ -31,7 +30,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 <a href="/content/posts/foss-times">The FOSS Times</a>
 <br>
 <br>
-<a href="https://linuxgamer.github.io/posts">See All Posts</a> | <a href="https://linuxgamer.github.io/feed/feed.xml"> RSS</a>
+<a href="https://linuxgamer.github.io/posts">See All Posts</a> | <a href="https://linuxgamer.github.io/feed/feed.xml"> RSS</a>
 </p>
 
 <h2><u> <a href="gallery">Gallery</a> </u></h2>
@@ -53,7 +52,9 @@ Miss Charlottie - <a href="https://youtube.com/">YouTube</a> <a href="https://tw
 <br>
 Chris Titus Tech - <a href="">YouTube</a> <a href="https://twitch.tv/">Twitch</a>
 <br>
-David Revoy - <a href="">YouTube</a> -->
+David Revoy - <a href="">YouTube</a>
+<br>
+Eddie Jaoude - <a href="">YouTube</a> -->
 </p>
 <br>
 <br>
