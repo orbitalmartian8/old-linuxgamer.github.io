@@ -40,7 +40,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 <h2><u> Peeps I recommend </u></h2>
 <p>
-Saultoons - <a href="https://youtube.com/c/Saultoons">YouTube</a>  <a href="https://twitch.tv/saultoons">Twitch</a>
+<!--Saultoons - <a href="https://youtube.com/c/Saultoons">YouTube</a>  <a href="https://twitch.tv/saultoons">Twitch</a>
  <br>
 Zaney - <a href="https://youtube.com/c/ZaneyOG">YouTube</a>
 <br>
@@ -48,7 +48,7 @@ Frantic - <a href="">YouTube</a>
 <br>
 Miss Charlottie - <a href="https://youtube.com/">YouTube</a> <a href="https://twitch.tv/MissCharlottie">Twitch</a>
 <br>
-<!--The Linux Cast - <a href="">YouTube</a>
+The Linux Cast - <a href="">YouTube</a>
 <br>
 Chris Titus Tech - <a href="">YouTube</a> <a href="https://twitch.tv/">Twitch</a>
 <br>
