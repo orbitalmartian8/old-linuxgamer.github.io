@@ -1,0 +1,6 @@
+<p><h1>Fedora Is The BEST Distro</h1></p>
+<p><h2>Why Do I Keep Returning to Fedora</h2></p>
+<p>Everytime I Distro hop, I find something wrong; with these issues, I decide to return to Fedora, is this because it is my favourite Distro and just works for me? Well, yes. All my issues are caused by something I've done wrong or by something that the Distro has done wrong.For example Arco Linux (my most recent hop), it wouldn't boot with "out of range pointer", tried troubleshooting and nothing, couldn't even boot to a tty. This incident reignited my trust in Fedora and to be completely honest, I don't know why I switched away.</p>
+<p>There is quite a bit of hate on Fedora at the moment with the codec thing, but in my eyes, that is the right thing to do, to avoid legal action. Fedora is just for me, hence why I use it. I would use something else, but nothing else fits my workflow more than Fedora, and I can't wait to see what is to come what with the release of Fedora 37 soon, and other versions later on.</p>
+<p><sub>! DISCLAIMER: I have in no way been influenced by Fedora, both monetary and emotionally for this article. !</sub></p>
+<p>Links: <a href="https://linuxgamer.github.io">Website Home</a> | <a href="https://linuxgamer.github.io/posts">Other Posts</a></p>
