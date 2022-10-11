@@ -20,7 +20,7 @@ body {
   }
 
   p {
-    color: #97aabf;
+    color: #81a1c1;
     text-align:center;
     padding-left: 70px;
     padding-right: 70px;
@@ -48,10 +48,10 @@ body {
     font-family: JetBrainsMono;
     font-size: 20px;
     text-align:center;
-    color: #c81414;
+    color: #a3be8c;
   }
 
   html {
-    background-color: #021347;
+    background-color: #2e3440;
   }
   
