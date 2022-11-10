@@ -1,0 +1,15 @@
+# Contributing to Open Source
+----
+## Introduction
+Open source is a great way to get into programming and allows you to collaborate with others and get help easily. There are many communities out there that help with this, Eddiehub, 4C Community to name a couple. Using open source as a learning experience to in lots of cases land a job in Tech.
+
+----
+## Defining Open Source and Contributing
+Open source is defined as "something people can modify and share because its design is publicly accessible", according to [opensource.com](https://opensource.com/resources/what-open-source#:~:text=The%20term%20open%20source%20refers%20to%20something%20people%20can%20modify%20and%20share%20because%20its%20design%20is%20publicly%20accessible.).
+
+Contributing means giving your input to a project.
+
+----
+
+## Why Open Source?
+Open source promotes collaboration. It's free in a couple of senses, it's free asin costs, but it's also free asin freedom; freedom to do what you want with the software (depending on the license, this can change). Collaborating with people who have been doing this sort of thing for a while is great, to allow beginners to learn from "the wise ones". There is only so much online courses and textbooks can teach you, actual experience is where the best learning comes from, learning on the job, you might say. This way of learning allows you to ask questions to other developers and get the help that you need. This may not suit everyone's learning style, but is definitely one of the best methods to learning programming and open source.
