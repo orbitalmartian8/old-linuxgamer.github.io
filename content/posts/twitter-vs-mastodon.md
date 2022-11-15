@@ -1,0 +1,2 @@
+# Twitter Vs Mastodon
+Twitter users move to Mastodon after Elon Musk buys out Twitter, causing many Mastodon instances to have issues with the hosting, many having to switch to invite only due to the demand. Twitter is a hell-hole at the best of times, but it is being shaped in a way that many people don't want it to. Mastodon is customisable and there are many instances that all connect and speak with each other. 
