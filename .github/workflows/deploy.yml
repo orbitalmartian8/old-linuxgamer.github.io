@@ -22,6 +22,7 @@ jobs:
 
       - name: Build
         run: |
+          cd beta
           npm i
           npm run build
           npm run export
