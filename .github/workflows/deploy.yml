@@ -24,8 +24,7 @@ jobs:
         run: |
           npm i
           npm run build
-          npm run next build
-          npm run next export
+          npm run export
           # npm run start
 
       - name: Deploy
