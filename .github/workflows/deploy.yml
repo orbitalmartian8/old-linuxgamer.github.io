@@ -16,8 +16,8 @@ jobs:
 
       - name: Move into beta directory
         run: |
-        cd beta
-        
+          cd beta
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
