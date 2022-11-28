@@ -11,14 +11,14 @@ export default function Home() {
         <title>CJ (Linux Gamer)</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
+        <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer. I do a lot of JavaScript, Python and HTML/CSS work, but I also dablle in C++ work too.</p>
       </section>
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
-      <Link href="/about" passHref>
+      <Link href="/" passHref>
         <button>
-          About
+          Home
         </button>
       </Link>
     </Layout>
