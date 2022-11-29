@@ -8,17 +8,21 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>CJ (Linux Gamer) | About</title>
+        <title>CJ | About</title>
       </Head>
       <Link href="/" passHref>
         <button>
           Home
         </button>
       </Link>
-      
       <Link href="/about" passHref>
         <button>
           About
+        </button>
+      </Link>
+      <Link href="/gallery">
+        <button>
+          Gallery
         </button>
       </Link>
       <section className={utilStyles.headingMd}>

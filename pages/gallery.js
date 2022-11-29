@@ -8,7 +8,7 @@ export default function Gallery() {
   return (
     <Layout gallery>
       <Head>
-        <title>CJ (Linux Gamer) | Gallery</title>
+        <title>CJ | Gallery</title>
       </Head>
       <Link href="/" passHref>
         <button>
@@ -26,7 +26,13 @@ export default function Gallery() {
         </button>
       </Link>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
+        <p>I have done a few art pieces in the 3 years I've been doing Digital/Pixel Art, this is the place to go to see them all.</p>
+        <p>All my finished art is hosted in a 
+        <Link 
+            href="https://github.com/LinuxGamer/Art"
+            rel="noreferrer">
+         public Github repository
+        </Link></p>
       </section>
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
