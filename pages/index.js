@@ -30,7 +30,6 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
       </section>        
-      <section className={utilStyles.headingLg}>Things To Check Out!</section>
         <div className={utilStyles.grid}>
           <a href="/gallery" className={utilStyles.card}>
             <h3>My Art &rarr;</h3>
@@ -46,10 +45,10 @@ export default function Home() {
             <h3>My Socials &rarr;</h3>
             <p>Visit my LinkFree profile and view all my social links.</p>
           </a>
-          <a href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" className={utilStyles.card}
+          <a href="https://github.com/LinuxGamer" className={utilStyles.card}
           >
-            <h3>Deploy &rarr;</h3>
-            <p>Instantly deploy your Next.js site to a public URL with Vercel.</p>
+            <h3>My Github &rarr;</h3>
+            <p>Visit my Github profile to see what I've been working on in my Software Development.</p>
           </a>
         </div>
     </main>
