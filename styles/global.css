@@ -25,3 +25,7 @@ img {
   max-width: 100%;
   display: block;
 }
+
+footer {
+  font-size: 12px;
+}
