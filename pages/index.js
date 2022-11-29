@@ -37,7 +37,7 @@ export default function Home() {
             {/* <img src="https://github.com/LinuxGamer/Art/blob/main/4DB7492F-B550-4114-8BB9-F3CBF4224202.png?raw=true"></img> */}
             <p>Visit my Gallery to view all my art pieces, Digital/Pixel art.</p>
           </a>
-          <a href="https://linkgamer.hashnode.dev" className={utilStyles.card}>
+          <a href="https://linuxgamer.hashnode.dev" className={utilStyles.card}>
             <h3>My Blog &rarr;</h3>
             <p>Visit my Blog to see all my posts, about Art, Gaming, Tech and Linux.</p>
           </a>
