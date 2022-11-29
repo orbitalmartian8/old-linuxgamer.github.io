@@ -54,6 +54,7 @@ export default function Home() {
           </button>
         </a>
         <p>Website made with ❤ by CJ (LinuxGamer) - Copyright ©️ 2022 CJ (LinuxGamer)</p>
+        <p></p>
       </footer>
     </Layout>
   );

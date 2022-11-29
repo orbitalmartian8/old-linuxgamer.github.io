@@ -27,7 +27,7 @@ export default function Home() {
       </Link>
       <section className={utilStyles.headingMd}>
       </section>
-        <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer. I do a lot of JavaScript, Python and HTML/CSS work, but I also dabble in C++ work too.</p>
+        <p>Hello, I'm CJ, known online as Linux Gamer. I'm a Digital/Pixel Artist, and software developer. I do a lot of JavaScript, Python and HTML/CSS work, but I also dabble in C++ work too.</p>
         <p>I use <Link href="https://spins.fedoraproject.org/en/kde/">Fedora Linux 36 KDE Spin</Link> and a variety of applications and extensions.</p>
         <p></p>
         <p></p>
@@ -40,8 +40,9 @@ export default function Home() {
             <li>File manager (terminal) - <Link href="https://ranger.github.io/" target="_blank" rel="noreferrer">Ranger</Link></li>
             <li>Office suite - Libreoffice</li>
             <li>PDF Viewer - Okular</li>
-            <li>Art/Graphic Design - Krita</li>
-            <li>Pixel art - LibreSprite</li>
+            <li>Art/Graphic Design - <Link href="https://krita.org" target="_blank" rel="noreferrer">Krita</Link></li>
+            <li>Pixel art - <Link href="https://libresprite.github.io" target="_blank" rel="noreferrer">LibreSprite</Link></li>
+            <li>Code Editor/Text Editor - Visual Studio Code</li>
           <b>Browser Extensions:</b>
             <li>Dark Reader</li>
             <li>YouTube Enhancer</li>
