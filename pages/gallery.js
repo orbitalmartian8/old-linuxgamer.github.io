@@ -35,7 +35,14 @@ export default function Gallery() {
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
-
+      <footer>
+        <a href="/contact">
+          <button>
+            Contact Us
+          </button>
+        </a>
+        <p>Website made with ❤ by CJ (LinuxGamer) - Copyright ©️ 2022 CJ (LinuxGamer)</p>
+      </footer>
     </Layout>
   );
 }

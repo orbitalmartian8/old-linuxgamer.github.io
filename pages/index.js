@@ -51,6 +51,14 @@ export default function Home() {
           </a>
         </div>
     </main>
+    <footer>
+        <a href="/contact">
+          <button>
+            Contact Us
+          </button>
+        </a>
+        <p>Website made with ❤ by CJ (LinuxGamer) - Copyright ©️ 2022 CJ (LinuxGamer)</p>
+      </footer>
     </Layout>
   );
 }
