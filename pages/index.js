@@ -32,7 +32,7 @@ export default function Home() {
       </section>        
       <section className={utilStyles.headingLg}>Things To Check Out!</section>
         <div className={utilStyles.grid}>
-          <a href="https://github.com/LinuxGamer/Art/" className={utilStyles.card}>
+          <a href="/gallery" className={utilStyles.card}>
             <h3>My Art &rarr;</h3>
             {/* <img src="https://github.com/LinuxGamer/Art/blob/main/4DB7492F-B550-4114-8BB9-F3CBF4224202.png?raw=true"></img> */}
             <p>Visit my Gallery to view all my art pieces, Digital/Pixel art.</p>
