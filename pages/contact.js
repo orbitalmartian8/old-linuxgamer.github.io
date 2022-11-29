@@ -31,7 +31,7 @@ export default function Home() {
         <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
       </section>        
         <div className={utilStyles.grid}>
-          <a href="mailto:charl.cj.monke@gmail.com" className={utilStyles.card}>
+          <a href="mailto:charl.cj.monke@gmail.com" className={utilStyles.card} target="_blank" rel="noreferrer">
             <h3>Email &rarr;</h3>
             {/* <img src="https://github.com/LinuxGamer/Art/blob/main/4DB7492F-B550-4114-8BB9-F3CBF4224202.png?raw=true"></img> */}
             <p>You can contact me via email if you prefer.</p>
