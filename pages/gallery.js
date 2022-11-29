@@ -15,10 +15,14 @@ export default function Gallery() {
           Home
         </button>
       </Link>
-      
       <Link href="/about" passHref>
         <button>
           About
+        </button>
+      </Link>
+      <Link href="/gallery">
+        <button>
+          Gallery
         </button>
       </Link>
       <section className={utilStyles.headingMd}>
