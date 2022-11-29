@@ -2,28 +2,23 @@ import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout.js';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
-import Image from 'next/image';
 // import Button from  'next/button';
 
-export default function Home() {
+export default function Gallery() {
   return (
-    <Layout home>
+    <Layout gallery>
       <Head>
-        <title>CJ (Linux Gamer)</title>
+        <title>CJ (Linux Gamer) | Gallery</title>
       </Head>
       <Link href="/" passHref>
         <button>
           Home
         </button>
       </Link>
+      
       <Link href="/about" passHref>
         <button>
           About
-        </button>
-      </Link>
-      <Link href="/gallery">
-        <button>
-          Gallery
         </button>
       </Link>
       <section className={utilStyles.headingMd}>
