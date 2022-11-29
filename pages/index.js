@@ -29,6 +29,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
       </section>
+      
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
