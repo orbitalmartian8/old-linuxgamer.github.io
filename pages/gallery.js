@@ -26,6 +26,7 @@ export default function Gallery() {
         </button>
       </Link>
       <section className={utilStyles.headingMd}>
+      </section>
         <p>I have done a few art pieces in the 3 years I've been doing Digital/Pixel Art, this is the place to go to see them all.</p>
         <p>All my finished art is hosted in a 
         <Link 
@@ -33,7 +34,6 @@ export default function Gallery() {
             rel="noreferrer">
          public Github repository
         </Link></p>
-      </section>
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
