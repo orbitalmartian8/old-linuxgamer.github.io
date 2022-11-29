@@ -36,17 +36,16 @@ export default function Home() {
             {/* <img src="https://github.com/LinuxGamer/Art/blob/main/4DB7492F-B550-4114-8BB9-F3CBF4224202.png?raw=true"></img> */}
             <p>Visit my Gallery to view all my art pieces, Digital/Pixel art.</p>
           </a>
-          <a href="https://linuxgamer.hashnode.dev" className={utilStyles.card}>
+          <a href="https://linuxgamer.hashnode.dev" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>My Blog &rarr;</h3>
             <p>Visit my Blog to see all my posts, about Art, Gaming, Tech and Linux.</p>
           </a>
           <br></br>
-          <a href="https://linkfree.eddiehub.io/LinuxGamer" className={utilStyles.card}>
+          <a href="https://linkfree.eddiehub.io/LinuxGamer" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>My Socials &rarr;</h3>
             <p>Visit my LinkFree profile and view all my social links.</p>
           </a>
-          <a href="https://github.com/LinuxGamer" className={utilStyles.card}
-          >
+          <a href="https://github.com/LinuxGamer" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>My Github &rarr;</h3>
             <p>Visit my Github profile to see what I've been working on in my Software Development.</p>
           </a>
