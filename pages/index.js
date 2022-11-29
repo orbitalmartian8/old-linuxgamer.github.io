@@ -8,6 +8,7 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <Layout home>
+    <main>
       <Head>
         <title>CJ (Linux Gamer)</title>
       </Head>
@@ -28,37 +29,30 @@ export default function Home() {
       </Link>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
-      </section>
-      <section className={utilStyles.grid}>
+      </section>        
+      <section className={utilStyles.headingLg}>Things To Check Out!</section>
         <div className={utilStyles.grid}>
-          <a href="https://nextjs.org/docs" className={utilStyles.card}>
-            <h3>Documentation &rarr;</h3>
-            Find in-depth information about Next.js features and API.
+          <a href="https://github.com/LinuxGamer/Art/" className={utilStyles.card}>
+            <h3>My Art &rarr;</h3>
+            {/* <img src="https://github.com/LinuxGamer/Art/blob/main/4DB7492F-B550-4114-8BB9-F3CBF4224202.png?raw=true"></img> */}
+            <p>Visit my Gallery to view all my art pieces, Digital/Pixel art.</p>
           </a>
-          <a href="https://nextjs.org/learn" className={utilStyles.card}>
-            <h3>Learn &rarr;</h3>
-            Learn about Next.js in an interactive course with quizzes!
+          <a href="https://linkgamer.hashnode.dev" className={utilStyles.card}>
+            <h3>My Blog &rarr;</h3>
+            <p>Visit my Blog to see all my posts, about Art, Gaming, Tech and Linux.</p>
           </a>
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={utilStyles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            Discover and deploy boilerplate example Next.js projects.
+          <br></br>
+          <a href="https://linkfree.eddiehub.io/LinuxGamer" className={utilStyles.card}>
+            <h3>My Socials &rarr;</h3>
+            <p>Visit my LinkFree profile and view all my social links.</p>
           </a>
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={utilStyles.card}
+          <a href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" className={utilStyles.card}
           >
             <h3>Deploy &rarr;</h3>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            <p>Instantly deploy your Next.js site to a public URL with Vercel.</p>
           </a>
         </div>
-        </section>
-      {/* <Link href="/about" passHref>
-        <Button variant="contained" color="secondary">About</Button>
-      </Link> */}
-
+    </main>
     </Layout>
   );
 }
