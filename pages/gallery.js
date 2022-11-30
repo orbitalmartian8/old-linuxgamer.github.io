@@ -34,7 +34,7 @@ export default function Gallery() {
       </Link> */}
       <a href="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true" className={utilStyles.card2}  target="_blank" rel="noreferrer">
         <h3>Pixel Art Fox</h3>
-        <p><img src="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true"></p>
+        <p><img src="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true" /></p>
         <p>Pixel art piece of a Fox</p>
       </a>
     <footer>
