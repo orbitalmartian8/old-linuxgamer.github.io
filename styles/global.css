@@ -6,6 +6,8 @@ body {
     Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 * {
@@ -29,4 +31,15 @@ img {
 footer {
   font-size: 12px;
   padding-top: 20px;
+}
+
+button {
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+button:hover {
+  color:rgb(0, 0, 0);
+  background-color: #ffffff;
+  border-color: rgb(0, 47, 255);
 }

@@ -50,6 +50,7 @@ export default function Home() {
             <p>Visit my Github profile to see what I've been working on in my Software Development.</p>
           </a>
         </div>
+        {/* <div class="card"><h2>Hello! this is a dark theme!</h2></div> */}
     </main>
     <footer>
         <a href="/contact">
