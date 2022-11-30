@@ -38,8 +38,8 @@ export default function Home() {
             <li>Web browser - <Link href="https://www.chromium.org/getting-involved/download-chromium/" target="_blank" rel="noreferrer">Chromium</Link></li>
             <li>File manager (GUI) - <Link href="https://apps.kde.org/en-gb/dolphin/" target="_blank" rel="noreferrer">Dolphin</Link></li>
             <li>File manager (terminal) - <Link href="https://ranger.github.io/" target="_blank" rel="noreferrer">Ranger</Link></li>
-            <li>Office suite - Libreoffice</li>
-            <li>PDF Viewer - Okular</li>
+            <li>Office suite - <Link href="https://www.libreoffice.org/" target="_blank" rel="noreferrer">Libreoffice</Link></li>
+            <li>PDF Viewer - <Link href="https://okular.kde.org/en-gb/" target="_blank" rel="noreferrer">Okular</Link></li>
             <li>Art/Graphic Design - <Link href="https://krita.org" target="_blank" rel="noreferrer">Krita</Link></li>
             <li>Pixel art - <Link href="https://libresprite.github.io" target="_blank" rel="noreferrer">LibreSprite</Link></li>
             <li>Code Editor/Text Editor - Visual Studio Code</li>

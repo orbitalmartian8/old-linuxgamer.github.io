@@ -74,6 +74,23 @@
     transition: color 0.15s ease, border-color 0.15s ease;
   }
 
+  .card2 {
+    text-align: left;
+    color: #81A1C1;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #434C5E;
+  }
+
+  .card2:hover,
+  .card2:focus,
+  .card2:active {
+    color: #A3BE8C;
+    border-color: #D08770;
+    background-color: #5E81AC;
+  }
+
   .card:hover,
   .card:focus,
   .card:active {

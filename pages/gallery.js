@@ -28,13 +28,15 @@ export default function Gallery() {
       <section className={utilStyles.headingMd}>
       </section>
         <p>I have done a few art pieces in the 3 years I've been doing Digital/Pixel Art, this is the place to go to see them all.</p>
-        <p>All my finished art is hosted in a 
-        <Link href="https://github.com/LinuxGamer/Art"  target="_blank" rel="noreferrer">
-         public Github repository
-        </Link></p>
+        <p>All my finished art is hosted in a <Link href="https://github.com/LinuxGamer/Art" target="_blank" rel="noreferrer">public Github repository</Link></p>
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
+      <a href="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true" className={utilStyles.card2}  target="_blank" rel="noreferrer">
+        <h3>Pixel Art Fox</h3>
+        <p><img src="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true"></img></p>
+        <p>Pixel art piece of a Fox</p>
+      </a>
     <footer>
     <p>
       <a href="/contact">
