@@ -22,7 +22,7 @@ export default function Home() {
           About
         </button>
       </Link>
-      <Link href="/gallery">
+      <Link href="/gallery" passHref>
         <button>
           Gallery
         </button>
@@ -53,12 +53,13 @@ export default function Home() {
         {/* <div class="card"><h2>Hello! this is a dark theme!</h2></div> */}
     </main>
     <footer>
-        <a href="/contact">
-          <button>
-            Contact Us
-          </button>
-        </a>
-        <p>Website made with ❤ by CJ - Copyright ©️ 2022 CJ (LinuxGamer)</p> <p><Link href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer"><span class="emoji" data-emoji="f09b"></span></Link></p>
+    <p>
+      <a href="/contact">
+        <button>
+          Contact Us
+        </button>
+      </a>
+        Website made with ❤ by CJ  |  Copyright ©️ 2022 CJ (LinuxGamer) <Link href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer" passHref><span class="emoji" data-emoji="f09b"></span></Link></p>
       </footer>
     </Layout>
   );
