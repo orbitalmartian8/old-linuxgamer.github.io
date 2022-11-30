@@ -58,7 +58,7 @@ export default function Home() {
             Contact Us
           </button>
         </a>
-        <p>Website made with ❤ by CJ (LinuxGamer) - Copyright ©️ 2022 CJ (LinuxGamer)</p>
+        <p>Website made with ❤ by CJ - Copyright ©️ 2022 CJ (LinuxGamer)</p> <p><Link href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer"><span class="emoji" data-emoji="f09b"></span></Link></p>
       </footer>
     </Layout>
   );

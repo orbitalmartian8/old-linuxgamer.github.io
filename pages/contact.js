@@ -27,9 +27,9 @@ export default function Home() {
           Gallery
         </button>
       </Link>
-      <section className={utilStyles.headingMd}>
+      {/* <section className={utilStyles.headingMd}>
         <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
-      </section>        
+      </section>         */}
         <div className={utilStyles.grid}>
           <a href="mailto:charl.cj.monke@gmail.com" className={utilStyles.card} target="_blank" rel="noreferrer">
             <h3>Email &rarr;</h3>
@@ -38,12 +38,12 @@ export default function Home() {
           </a>
           <a href="https://discord.gg/s58s2b9Xpr" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>Discord &rarr;</h3>
-            <p>Visit my Blog to see all my posts, about Art, Gaming, Tech and Linux.</p>
+            <p>Join my Discord server and reach out to me in <code>#contact</code>.</p>
           </a>
           <br></br>
           <a href="https://linkfree.eddiehub.io/LinuxGamer" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>My Socials &rarr;</h3>
-            <p>Contact me via one of my socials and I am quite likely to respond, but not always :)</p>
+            <p>Contact me via one of my socials and I am quite likely to respond :)</p>
           </a>
         </div>
     </main>

@@ -44,3 +44,16 @@ button:hover {
   background-color: #EBCB8B;
   border-color: #EBCB8B;
 }
+.emoji {
+  overflow: hidden;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin: 0 0.1em;
+  background-size: 100% 100%;
+}
+
+/* for each emoji */
+[data-emoji="f09b"] {
+  background-image: url('../public/images/github.svg');
+}
