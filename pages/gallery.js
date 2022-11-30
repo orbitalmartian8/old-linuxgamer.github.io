@@ -35,13 +35,14 @@ export default function Gallery() {
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
-      <footer>
-        <a href="/contact">
-          <button>
-            Contact Us
-          </button>
-        </a>
-        <p>Website made with ❤ by CJ (LinuxGamer) - Copyright ©️ 2022 CJ (LinuxGamer)</p>
+    <footer>
+    <p>
+      <a href="/contact">
+        <button>
+          Contact Us
+        </button>
+      </a>
+        Website made with ❤ by CJ  |  Copyright ©️ 2022 CJ (LinuxGamer) <Link href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer" passHref><span class="emoji" data-emoji="f09b"></span></Link></p>
       </footer>
     </Layout>
   );
