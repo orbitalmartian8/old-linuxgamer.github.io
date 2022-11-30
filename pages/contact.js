@@ -10,7 +10,7 @@ export default function Home() {
     <Layout home>
     <main>
       <Head>
-        <title>CJ (Linux Gamer)</title>
+        <title>CJ | Contact Us</title>
       </Head>
       <Link href="/" passHref>
         <button>
