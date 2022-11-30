@@ -6,8 +6,8 @@ body {
     Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #3B4252;
+  color: #D8DEE9;
 }
 
 * {
@@ -15,12 +15,13 @@ body {
 }
 
 a {
-  color: #0070f3;
+  color: #88C0D0;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #8FBCBB;
 }
 
 img {
@@ -34,12 +35,12 @@ footer {
 }
 
 button {
-  color: #000000;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  color: #2E3440;
+  background-color: #D08770;
+  border-color: #D08770;
 }
 button:hover {
-  color:rgb(0, 0, 0);
-  background-color: #ffffff;
-  border-color: rgb(0, 47, 255);
+  color:#2E3440;
+  background-color: #EBCB8B;
+  border-color: #EBCB8B;
 }

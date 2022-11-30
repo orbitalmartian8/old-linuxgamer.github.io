@@ -66,19 +66,20 @@
     flex-basis: 25%;
     padding: 5px;
     text-align: left;
-    color: inherit;
+    color: #81A1C1;
     text-decoration: none;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #434C5E;
     transition: color 0.15s ease, border-color 0.15s ease;
   }
 
   .card:hover,
   .card:focus,
   .card:active {
-    color: #ffffff;
-    border-color: #0070f3;
-    background-color: #140063;
+    color: #A3BE8C;
+    border-color: #D08770;
+    background-color: #5E81AC;
   }
 
   .card h3 {
