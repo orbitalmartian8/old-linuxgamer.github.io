@@ -32,10 +32,16 @@ export default function Gallery() {
       {/* <Link href="/about" passHref>
         <Button variant="contained" color="secondary">About</Button>
       </Link> */}
-      <a href="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true" className={utilStyles.card2}  target="_blank" rel="noreferrer">
+      <a href="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true" target="_blank" rel="noreferrer" className={utilStyles.Link2}>
         <h3>Pixel Art Fox</h3>
         <p><img src="https://github.com/LinuxGamer/Art/blob/main/pixel-fox.png?raw=true" /></p>
-        <p>Pixel art piece of a Fox</p>
+        <p>Pixel art piece of a Fox.</p>
+      </a>
+      <br />
+      <a href="https://github.com/LinuxGamer/Art/blob/main/pixel-fox(christmas).png?raw=true" target="_blank" rel="noreferrer" className={utilStyles.Link2}>
+        <h3>Pixel Art Fox (Christmas)</h3>
+        <p><img src="https://github.com/LinuxGamer/Art/blob/main/pixel-fox(christmas).png?raw=true" /></p>
+        <p>Pixel art piece of a Fox with a Santa hat.</p>
       </a>
     <footer>
     <p>

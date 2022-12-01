@@ -125,3 +125,13 @@
   justify-content: center;
   align-items: center;
 }
+
+.Link2 {
+  color: #EBCB8B;
+  text-decoration: overline;
+  background-color: #B48EAD;
+}
+.Link2:hover {
+  color: #D08770;
+  text-decoration: underline ;
+}
