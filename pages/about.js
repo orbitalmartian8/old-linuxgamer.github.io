@@ -42,7 +42,7 @@ export default function Home() {
             <li>PDF Viewer - <Link href="https://okular.kde.org/en-gb/" target="_blank" rel="noreferrer">Okular</Link></li>
             <li>Art/Graphic Design - <Link href="https://krita.org" target="_blank" rel="noreferrer">Krita</Link></li>
             <li>Pixel art - <Link href="https://libresprite.github.io" target="_blank" rel="noreferrer">LibreSprite</Link></li>
-            <li>Code Editor/Text Editor - Visual Studio Code</li>
+            <li>Code Editor/Text Editor - <Link href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">Visual Studio Code</Link></li>
           <b>Browser Extensions:</b>
             <li>Dark Reader</li>
             <li>YouTube Enhancer</li>
