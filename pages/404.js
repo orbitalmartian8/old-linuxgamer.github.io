@@ -16,7 +16,7 @@ export default function Home() {
     <Layout home>
     <main>
       <Head>
-        <title>CJ (Linux Gamer)</title>
+        <title>404 | Someone's getting fired</title>
       </Head>
       <p>This page is unavailable, please check the URL.</p>
       <Link href="/" passHref>Back to Home &rarr;</Link>
