@@ -18,8 +18,8 @@ export default function Home() {
       <Head>
         <title>CJ (Linux Gamer)</title>
       </Head>
+      <p>This page is unavailable, please check the URL.</p>
       <Link href="/" passHref>Back to Home &rarr;</Link>
-      
     </main>
     <footer>
     <p>
