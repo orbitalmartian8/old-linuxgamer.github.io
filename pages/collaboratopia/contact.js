@@ -10,7 +10,7 @@ export default function Home() {
     <Layout home>
     <main>
       <Head>
-        <title>CJ (Linux Gamer)</title>
+        <title>CJ | Contact Us</title>
       </Head>
       <Link href="/" passHref>
         <button>
@@ -22,46 +22,36 @@ export default function Home() {
           About
         </button>
       </Link>
-      <Link href="/gallery" passHref>
+      <Link href="/gallery">
         <button>
           Gallery
         </button>
       </Link>
-      <section className={utilStyles.headingMd}>
+      {/* <section className={utilStyles.headingMd}>
         <p>Hello, I'm CJ, I'm a Digital/Pixel Artist, and software developer.</p>
-      </section>        
+      </section>         */}
         <div className={utilStyles.grid}>
-          <a href="/gallery" className={utilStyles.card}>
-            <h3>My Art &rarr;</h3>
+          <a href="mailto:charl.cj.monke@gmail.com" className={utilStyles.card} target="_blank" rel="noreferrer">
+            <h3>Email &rarr;</h3>
             {/* <img src="https://github.com/LinuxGamer/Art/blob/main/4DB7492F-B550-4114-8BB9-F3CBF4224202.png?raw=true"></img> */}
-            <p>Visit my Gallery to view all my art pieces, Digital/Pixel art.</p>
+            <p>You can contact me via email if you prefer.</p>
           </a>
-          <a href="https://linuxgamer.hashnode.dev" className={utilStyles.card}  target="_blank" rel="noreferrer">
-            <h3>My Blog &rarr;</h3>
-            <p>Visit my Blog to see all my posts, about Art, Gaming, Tech and Linux.</p>
+          <a href="https://discord.gg/s58s2b9Xpr" className={utilStyles.card}  target="_blank" rel="noreferrer">
+            <h3>Discord &rarr;</h3>
+            <p>Join my Discord server and reach out to me in <code>#contact</code>.</p>
           </a>
           <br></br>
           <a href="https://linkfree.eddiehub.io/LinuxGamer" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>My Socials &rarr;</h3>
-            <p>Visit my LinkFree profile and view all my social links.</p>
-          </a>
-          <a href="https://github.com/LinuxGamer" className={utilStyles.card}  target="_blank" rel="noreferrer">
-            <h3>My Github &rarr;</h3>
-            <p>Visit my Github profile to see what I've been working on in my Software Development.</p>
+            <p>Contact me via one of my socials and I am quite likely to respond :)</p>
           </a>
         </div>
-        {/* <div class="card"><h2>Hello! this is a dark theme!</h2></div> */}
     </main>
     <footer>
     <p>
       <a href="/contact">
         <button>
           Contact Us
-        </button>
-      </a>
-      <a href="/collaboratopia">
-        <button>
-          Collaboratopia Portal
         </button>
       </a>
         Website made with ❤ by CJ  |  Copyright ©️ 2022 CJ (LinuxGamer) <Link href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer" passHref><span class="emoji" data-emoji="f09b"></span></Link></p>
