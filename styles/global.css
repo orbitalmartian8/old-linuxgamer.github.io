@@ -1,59 +1,8 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  line-height: 1.6;
-  font-size: 18px;
-  background-color: #3B4252;
-  color: #D8DEE9;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-a {
-  color: #88C0D0;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #8FBCBB;
-}
-
-img {
-  max-width: 100%;
-  display: block;
-}
-
-footer {
-  font-size: 12px;
-  padding-top: 20px;
-}
-
-button {
-  color: #2E3440;
-  background-color: #D08770;
-  border-color: #D08770;
-}
-button:hover {
-  color:#2E3440;
-  background-color: #EBCB8B;
-  border-color: #EBCB8B;
-}
-.emoji {
-  overflow: hidden;
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  margin: 0 0.1em;
-  background-size: 100% 100%;
-}
-
-/* for each emoji */
-[data-emoji="f09b"] {
-  background-image: url('../public/images/github.svg');
-}
+<style>
+:root {
+--brand-color: #7E81FF;
+--dark-color: #1E293B;
+--mid-color: #B8BFC6;
+--light-color: #FFFFFF;
+  }
+</style>
