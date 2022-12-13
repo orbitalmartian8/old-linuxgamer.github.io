@@ -13,17 +13,17 @@ export default function Home() {
         <title>CJ (Linux Gamer)</title>
       </Head>
       <Link href="/" passHref>
-        <button>
+        <button class="btn">
           Home
         </button>
       </Link>
       <Link href="/about" passHref>
-        <button>
+        <button class="btn">
           About
         </button>
       </Link>
       <Link href="/gallery" passHref>
-        <button>
+        <button class="btn">
           Gallery
         </button>
       </Link>
@@ -45,9 +45,15 @@ export default function Home() {
             <h3>My Socials &rarr;</h3>
             <p>Visit my LinkFree profile and view all my social links.</p>
           </a>
+        </div>
+        <div className={utilStyles.grid}>
           <a href="https://github.com/LinuxGamer" className={utilStyles.card}  target="_blank" rel="noreferrer">
             <h3>My Github &rarr;</h3>
             <p>Visit my Github profile to see what I've been working on in my Software Development.</p>
+          </a>
+          <a href="https://discord.gg/zsCX3Pqerq" className={utilStyles.card} target="_blank" rel="noreferrer">
+            <h3>My Discord Server &rarr;</h3>
+            <p>Join my Discord server and keep up to date with new videos, streams and other content.</p>
           </a>
         </div>
         {/* <div class="card"><h2>Hello! this is a dark theme!</h2></div> */}
