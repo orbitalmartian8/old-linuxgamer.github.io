@@ -13,17 +13,17 @@ export default function Home() {
         <title>CJ (Linux Gamer)</title>
       </Head>
       <Link href="/" passHref>
-        <button class="btn">
+        <button className="btn">
           Home
         </button>
       </Link>
       <Link href="/about" passHref>
-        <button class="btn">
+        <button className="btn">
           About
         </button>
       </Link>
       <Link href="/gallery" passHref>
-        <button class="btn">
+        <button className="btn">
           Gallery
         </button>
       </Link>

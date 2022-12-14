@@ -11,17 +11,17 @@ export default function Home() {
         <title>CJ | About</title>
       </Head>
       <Link href="/" passHref>
-        <button>
+        <button className="btn">
           Home
         </button>
       </Link>
       <Link href="/about" passHref>
-        <button>
+        <button className="btn">
           About
         </button>
       </Link>
       <Link href="/gallery">
-        <button>
+        <button className="btn">
           Gallery
         </button>
       </Link>
