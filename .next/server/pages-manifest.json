@@ -1,7 +1,15 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/about": "pages/about.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html",
+  "/about": "pages/about.html",
+  "/collaboratopia/about": "pages/collaboratopia/about.html",
+  "/collaboratopia/contact": "pages/collaboratopia/contact.html",
+  "/collaboratopia": "pages/collaboratopia.html",
+  "/collaboratopia/projects": "pages/collaboratopia/projects.html",
+  "/contact": "pages/contact.html",
+  "/gallery": "pages/gallery.html",
+  "/": "pages/index.html",
+  "/posts/first-post": "pages/posts/first-post.html",
+  "/_document": "pages/_document.js"
 }
