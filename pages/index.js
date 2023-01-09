@@ -15,25 +15,25 @@ export default function Home() {
       <main>
 
         {/* <Image src="../assets/panda1.png" alt="mascot placeholder" /> */}
-        <h1 className={styles.title}>
-          Welcome to <a href="https://github.com/LinuxGamer/" target="_blank" rel="noreferrer">LinuxGamer's Website</a>
-        </h1>
-
-        <p className={styles.description}>
-          I'm CJ, known online as LinuxGamer, I am a Content Creator foccusing on Art and Tech.
+        <p className={styles.titlecard}>
+            <h1 className={styles.title}>
+                Welcome to <a href="https://github.com/LinuxGamer/" target="_blank" rel="noreferrer">LinuxGamer's Website</a>
+            </h1>
         </p>
+
+        <p className={styles.titlecard}>
+            <p className={styles.description}>
+                I'm CJ, known online as LinuxGamer.
+            </p>
+            <p className={styles.description}>
+                I am a Content Creator foccusing on Art and Tech.
+            </p>
+        </p>
+
       </main>
 
       <footer>
-        
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
-        </a>
+
       </footer>
 
       <style jsx>{`
