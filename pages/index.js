@@ -14,11 +14,6 @@ export default function Home() {
         <Navbar />
       </header>
       <main>
-      <div id="cookiePopup">
-        <h4>Cookie Consent</h4>
-        <p>Our website uses cookies to provide your browsing experience and relavent informations.Before continuing to use our website, you agree & accept of our  <a href="#">Cookie Policy & Privacy</a></p>
-        <button id="acceptCookie">Accept</button> 
-      </div>
         {/* <Image src="../assets/panda1.png" alt="mascot placeholder" /> */}
         <p className={styles.titlecard}>
             <h1 className={styles.title}>
@@ -89,28 +84,6 @@ export default function Home() {
         }
         * {
           box-sizing: border-box;
-        }
-        #cookiePopup {
-          background: white;
-          width: 25%;
-          position: fixed;
-          left: 10px;
-          bottom: 20px;
-          box-shadow: 0px 0px 15px #cccccc;
-          padding: 5px 10px;
-        }
-        #cookiePopup p{
-          text-align: left;
-          font-size: 15px;
-          color: #4e4e4e;
-        }
-        #cookiePopup button{
-          width: 100%;
-          border: navajowhite;
-          background: #097fb7;
-          padding: 5px;
-          border-radius: 10px;
-          color: white;
         }
       `}</style>
     </div>
