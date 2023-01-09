@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css';
 import Navbar from '../components/Navbar.js';
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -33,7 +34,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <a href="https://twitter.com/The_LinuxGamer"><img src="../public/twitter.png"></img></a>
+        <a href="https://twitter.com/The_LinuxGamer"><Image src="/twitter.png" width="20" height="20"></Image></a>
       </footer>
 
       <style jsx>{`
