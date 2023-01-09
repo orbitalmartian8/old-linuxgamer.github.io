@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout.js';
-import utilStyles from '../styles/utils.module.css';
+import styles from '../styles/Home.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
 import Script from 'next/script.js';
