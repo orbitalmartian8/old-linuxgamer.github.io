@@ -91,6 +91,10 @@
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
+.footersocial {
+  padding-left: 3px;
+}
+
 .logo {
   height: 1em;
 }

@@ -34,7 +34,8 @@ export default function Home() {
       </main>
 
       <footer>
-        <a href="https://twitter.com/The_LinuxGamer"><Image src="/twitter.png" width="20" height="20"></Image></a>
+        <a href="https://twitter.com/The_LinuxGamer"><Image className={styles.footersocial} src="/twitter.png" width="20" height="20"></Image></a>
+        <a href="https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg"><Image className={styles.footersocial} src="/youtube.png" width="20" height="20"></Image></a>
       </footer>
 
       <style jsx>{`
