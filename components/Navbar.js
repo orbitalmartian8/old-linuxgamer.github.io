@@ -30,7 +30,7 @@ const Navbar = () => {
     <nav className={styles.navbar}>
       {isMobile() ? (
         <>
-          <div className={styles.navbarBrand}><a href="/" className={styles.navbarItem}>VideoCentral</a></div>
+          <div className={styles.navbarBrand}><a href="/" className={styles.navbarItem}>LinuxGamer</a></div>
           <button onClick={toggleMenu} className={styles.menuButton}>
             Menu
           </button>
@@ -46,11 +46,6 @@ const Navbar = () => {
                     <FaGithub aria-label="GitHub" />
                   </IconContext.Provider>
                 </a>
-                <a href="https://twitter.com/the_linuxgamer" target="_blank" rel="noreferrer" className={styles.navbarIcon}>
-                  <IconContext.Provider value={{color: "white", style: { verticalAlign: "middle" },}}>
-                    <FaTwitter aria-label="Twitter" />
-                  </IconContext.Provider>
-                </a>
               </div>
             </div>
           )}
@@ -58,18 +53,13 @@ const Navbar = () => {
       ) : (
         <>
           <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2/dist/tailwind.min.css" rel="stylesheet" type="text/css" />  
-          <div className={styles.navbarBrand}><a href="/" className={styles.navbarItem}>VideoCentral</a></div>
+          <div className={styles.navbarBrand}><a href="/" className={styles.navbarItem}>LinuxGamer</a></div>
           <div className={styles.navbarMenu}>
             <a className={styles.navbarItem} href="/">Home</a>
             <a className={styles.navbarItem} href="/popular">Popular</a>
             <a className={styles.navbarItem} href="/search">Search</a>
             <a className={styles.navbarItem} href="https://linuxgamer.github.io/videocentral">Docs</a>
-            <a className={styles.navbarItem} href="https://github.com/LinuxGamer/videocentral" target="_blank" rel="noreferrer"><IconContext.Provider value={{color: "white", style: { verticalAlign: "middle" },}}><FaGithub aria-label="GitHub" /></IconContext.Provider></a>
-            <a href="https://twitter.com/the_linuxgamer" target="_blank" rel="noreferrer" className={styles.navbarItem}>
-                  <IconContext.Provider value={{color: "white", style: { verticalAlign: "middle" },}}>
-                    <FaTwitter aria-label="Twitter" />
-                  </IconContext.Provider>
-            </a>
+            <a className={styles.navbarItem} href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer"><IconContext.Provider value={{color: "white", style: { verticalAlign: "middle" },}}><FaGithub aria-label="GitHub" /></IconContext.Provider></a>
             
 
           </div>

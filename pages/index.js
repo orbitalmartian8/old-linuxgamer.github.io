@@ -33,7 +33,7 @@ export default function Home() {
       </main>
 
       <footer>
-
+        <a href="https://twitter.com/The_LinuxGamer"><img src="../public/twitter.png"></img></a>
       </footer>
 
       <style jsx>{`
