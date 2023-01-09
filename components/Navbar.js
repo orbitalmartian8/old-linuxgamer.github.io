@@ -41,7 +41,7 @@ const Navbar = () => {
               <a className={styles.navbarItem} href="/search">Search</a>
               <a className={styles.navbarItem} href="https://linuxgamer.github.io/videocentral">Docs</a>
               <div className={styles.navbarItem}>
-                <a href="https://github.com/LinuxGamer/videocentral" target="_blank" rel="noreferrer">
+                <a href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer">
                   <IconContext.Provider value={{color: "white", style: { verticalAlign: "middle" },}}>
                     <FaGithub aria-label="GitHub" />
                   </IconContext.Provider>
