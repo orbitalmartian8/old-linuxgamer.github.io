@@ -30,7 +30,6 @@ export default function Home() {
                 I am a Content Creator foccusing on Art and Tech.
             </p>
         </p>
-
       </main>
 
       <footer>

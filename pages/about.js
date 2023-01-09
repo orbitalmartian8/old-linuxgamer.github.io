@@ -1,65 +1,82 @@
-import Head from 'next/head';
-import Layout, { siteTitle } from '../components/layout.js';
-import utilStyles from '../styles/utils.module.css';
-import Link from 'next/link';
-// import Button from  'next/button';
+import Head from 'next/head'
+import styles from '../styles/Home.module.css';
+import Navbar from '../components/Navbar.js';
+import Image from 'next/image';
 
 export default function Home() {
   return (
-    <Layout home>
+    <div className={styles.container}>
       <Head>
-        <title>CJ | About</title>
+        <title>About | LinuxGamer</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Link href="/" passHref>
-        <button className="btn">
-          Home
-        </button>
-      </Link>
-      <Link href="/about" passHref>
-        <button className="btn">
-          About
-        </button>
-      </Link>
-      <Link href="/gallery">
-        <button className="btn">
-          Gallery
-        </button>
-      </Link>
-      <section className={utilStyles.headingMd}>
-      </section>
-        <p>Hello, I'm CJ, known online as Linux Gamer. I'm a Digital/Pixel Artist, and software developer. I do a lot of JavaScript, Python and HTML/CSS work, but I also dabble in C++ work too.</p>
-        <p>I use <Link href="https://spins.fedoraproject.org/en/kde/">Fedora Linux 36 KDE Spin</Link> and a variety of applications and extensions.</p>
-        <p></p>
-        <p></p>
-        <p>
-          List of applications and extensions that I use:
-          <br />
-          <b>Applications:</b>
-            <li>Web browser - <Link href="https://www.chromium.org/getting-involved/download-chromium/" target="_blank" rel="noreferrer">Chromium</Link></li>
-            <li>File manager (GUI) - <Link href="https://apps.kde.org/en-gb/dolphin/" target="_blank" rel="noreferrer">Dolphin</Link></li>
-            <li>File manager (terminal) - <Link href="https://ranger.github.io/" target="_blank" rel="noreferrer">Ranger</Link></li>
-            <li>Office suite - <Link href="https://www.libreoffice.org/" target="_blank" rel="noreferrer">Libreoffice</Link></li>
-            <li>PDF Viewer - <Link href="https://okular.kde.org/en-gb/" target="_blank" rel="noreferrer">Okular</Link></li>
-            <li>Art/Graphic Design - <Link href="https://krita.org" target="_blank" rel="noreferrer">Krita</Link></li>
-            <li>Pixel art - <Link href="https://libresprite.github.io" target="_blank" rel="noreferrer">LibreSprite</Link></li>
-            <li>Code Editor/Text Editor - <Link href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">Visual Studio Code</Link></li>
-          <b>Browser Extensions:</b>
-            <li>Dark Reader</li>
-            <li>YouTube Enhancer</li>
-          <b>KDE Extensions</b>
-            <li>Dracula Global Theme</li>
-            <li>Dracula Cursor</li>
-            <li>Dracula Icons</li>
+      <header>
+        <Navbar />
+      </header>
+      <main>
+
+        {/* <Image src="../assets/panda1.png" alt="mascot placeholder" /> */}
+        <p className={styles.titlecard}>
+            <h1 className={styles.title}>
+                About
+            </h1>
         </p>
-        <footer>
-    <p>
-      <a href="/contact">
-        <button>
-          Contact Us
-        </button>
-      </a>
-        Website made with ❤ by CJ  |  Copyright ©️ 2022 CJ (LinuxGamer) <Link href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer" passHref><span class="emoji" data-emoji="f09b"></span></Link></p>
+
+      </main>
+
+      <footer>
+        <a href="https://twitter.com/The_LinuxGamer"><Image className={styles.footersocial} src="/twitter.png" width="20" height="20"></Image></a>
+        <a href="https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg"><Image className={styles.footersocial} src="/youtube.png" width="20" height="20"></Image></a>
       </footer>
-    </Layout>
-  );
+
+      <style jsx>{`
+        main {
+          padding: 5rem 0;
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+        footer {
+          width: 100%;
+          height: 100px;
+          border-top: 1px solid #eaeaea;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        footer img {
+          margin-left: 0.5rem;
+        }
+        footer a {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          text-decoration: none;
+          color: inherit;
+        }
+        code {
+          background: #fafafa;
+          border-radius: 5px;
+          padding: 0.75rem;
+          font-size: 1.1rem;
+          font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+        }
+      `}</style>
+
+      <style jsx global>{`
+        html,
+        body {
+          padding: 0;
+          margin: 0;
+          font-family: "Venera", Calibri, Tahoma, sans-serif;
+        }
+        * {
+          box-sizing: border-box;
+        }
+      `}</style>
+    </div>
+  )
 }

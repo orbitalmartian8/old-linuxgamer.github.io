@@ -37,7 +37,7 @@ const Navbar = () => {
           {isMenuOpen && (
             <div className={styles.navbarMenu}>
               <a className={styles.navbarItem} href="/">Home</a>
-              <a className={styles.navbarItem} href="/popular">Popular</a>
+              <a className={styles.navbarItem} href="/about">About</a>
               <a className={styles.navbarItem} href="/search">Search</a>
               <a className={styles.navbarItem} href="https://linuxgamer.github.io/videocentral">Docs</a>
               <div className={styles.navbarItem}>
@@ -56,7 +56,7 @@ const Navbar = () => {
           <div className={styles.navbarBrand}><a href="/" className={styles.navbarItem}>LinuxGamer</a></div>
           <div className={styles.navbarMenu}>
             <a className={styles.navbarItem} href="/">Home</a>
-            <a className={styles.navbarItem} href="/popular">Popular</a>
+            <a className={styles.navbarItem} href="/about">About</a>
             <a className={styles.navbarItem} href="/search">Search</a>
             <a className={styles.navbarItem} href="https://linuxgamer.github.io/videocentral">Docs</a>
             <a className={styles.navbarItem} href="https://github.com/LinuxGamer/linuxgamer.github.io" target="_blank" rel="noreferrer"><IconContext.Provider value={{color: "white", style: { verticalAlign: "middle" },}}><FaGithub aria-label="GitHub" /></IconContext.Provider></a>
