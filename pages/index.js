@@ -32,10 +32,13 @@ export default function Home() {
       </main>
 
       <footer>
-        <a href="https://twitter.com/The_LinuxGamer"><Image className={styles.footersocial} src="/twitter.png" width="24" height="24"></Image></a>
-        <a href="https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg"><Image className={styles.footersocial} src="/youtube.png" width="24" height="24"></Image></a>
-        <a href="https://twitch.tv/the_linuxgamer"><Image className={styles.footersocial} src="/twitch.png" width="24" height="24"></Image></a>
-        <a href="https://discord.gg/zsCX3Pqerq"><Image className={styles.footersocial} src="/discord.png" width="24" height="24"></Image></a>
+          <a href="https://twitter.com/The_LinuxGamer"><Image className={styles.footersocial} src="/twitter.png" width="24" height="24"></Image></a>
+          <a href="https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg"><Image className={styles.footersocial} src="/youtube.png" width="24" height="24"></Image></a>
+          <a href="https://twitch.tv/the_linuxgamer"><Image className={styles.footersocial} src="/twitch.png" width="24" height="24"></Image></a>
+          <a href="https://discord.gg/zsCX3Pqerq"><Image className={styles.footersocial} src="/discord.png" width="24" height="24"></Image></a>
+      </footer>
+      <footer>
+      <p className={styles.warningfooter}> ! Please note: this website uses analytics to improve user experience, this is all anonymous data. ! </p>
       </footer>
 
       <style jsx>{`
@@ -49,8 +52,8 @@ export default function Home() {
         }
         footer {
           width: 100%;
-          height: 100px;
-          border-top: 1px solid #eaeaea;
+          height: 50px;
+          background-color: #333;
           display: flex;
           justify-content: center;
           align-items: center;
