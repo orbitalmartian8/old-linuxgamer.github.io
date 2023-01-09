@@ -14,7 +14,6 @@ export default function Home() {
         <Navbar />
       </header>
       <main>
-
         {/* <Image src="../assets/panda1.png" alt="mascot placeholder" /> */}
         <p className={styles.titlecard}>
             <h1 className={styles.title}>
@@ -33,8 +32,10 @@ export default function Home() {
       </main>
 
       <footer>
-        <a href="https://twitter.com/The_LinuxGamer"><Image className={styles.footersocial} src="/twitter.png" width="20" height="20"></Image></a>
-        <a href="https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg"><Image className={styles.footersocial} src="/youtube.png" width="20" height="20"></Image></a>
+        <a href="https://twitter.com/The_LinuxGamer"><Image className={styles.footersocial} src="/twitter.png" width="24" height="24"></Image></a>
+        <a href="https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg"><Image className={styles.footersocial} src="/youtube.png" width="24" height="24"></Image></a>
+        <a href="https://twitch.tv/the_linuxgamer"><Image className={styles.footersocial} src="/twitch.png" width="24" height="24"></Image></a>
+        <a href="https://discord.gg/zsCX3Pqerq"><Image className={styles.footersocial} src="/discord.png" width="24" height="24"></Image></a>
       </footer>
 
       <style jsx>{`

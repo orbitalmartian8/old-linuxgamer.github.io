@@ -32,6 +32,10 @@
   text-align: center;
 }
 
+.top {
+  border-bottom: 3px;
+}
+
 .title,
 .description {
   text-align: center;
